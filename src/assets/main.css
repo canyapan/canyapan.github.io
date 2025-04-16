@@ -62,7 +62,3 @@ p {
   color: var(--color-text);
   margin-bottom: 0.25rem;
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
